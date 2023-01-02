@@ -17,9 +17,10 @@ body {
 .img-responsive {
   width: 100%;
   display: block;
+}
+.img {
   max-height: 120px;
 }
-
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
